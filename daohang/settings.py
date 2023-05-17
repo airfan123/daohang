@@ -31,7 +31,7 @@ DEBUG = True
 # DEBUG = False
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['maiisi.zeabur.app']
 
 
 # Application definition
